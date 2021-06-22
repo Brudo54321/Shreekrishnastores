@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px rgb(241, 49, 49);
+    font-size: 2vw;
+}
+.first
+{
+    display: flex;
+    position:absolute ;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #008060;
+    width: 99vw;
+    height: 20vh;
+    color: white;
+}
+.nam
+{
+    font-size: 3vw;
+}
+.info
+{
+    padding-top: 21vh;
+    background-color: rgb(87, 73, 73);
+    height: 78vh;
+}
+.content
+{
+    height: 78vh;
+
+}
+.person
+{
+    /* display: flex; */
+     /* justify-content: center; 
+     align-items: center;  */
+    }
+  
+.own
+{
+    padding-left: 41vw;
+}
+.self
+{
+    padding-left: 31vw;
+}
+.nams
+{
+    padding-left: 31vw;
+}
+.services
+{
+    border:solid black;
+    text-align: center;
+    margin: 27vw;
+    background-color: rgb(161, 61, 61);
+    color: cornsilk;
+    font-size: 5vw;
+}
+.oneu
+{
+    margin-top: 30vh;
+    display: flex;
+    align-items: center;
+    
+    height: 8vh;
+    width: 100%;
+    flex-flow: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+
+}
+.content
+{
+background-color: rgb(228, 154, 228);
+}
+li{
+    height: 30vh;
+    width: 22vw;
+    /* border: solid rgb(112, 241, 112); */
+    align-items: baseline;
+    list-style: none;
+    background-color: rgb(182, 206, 134);
+    margin: 1vh;
+}
+/* .two
+{
+    height: 25vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+        position: relative;
+
+} */
+.last
+{
+    margin-top: 86vh;
+text-align: center;
+background-color: black;
+color:white;
+
+}
+
+
+
+

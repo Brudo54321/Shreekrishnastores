@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px rgb(235, 200, 200);
+    font-size: 2vw;
+}
+.container
+{
+ border-bottom: green;
+   
+}
+.first
+{
+  display: flex;
+  justify-content: space-between;
+  background-color: #008060;
+   width: 100vw;
+  height: 20vh;
+  align-items: center;
+  position: absolute;
+  
+}
+.nam
+{
+    font-size: 3vw;
+  
+    font-weight: bolder;
+    color:whitesmoke;  
+}
+.name
+{
+    border-bottom: yellowgreen;
+}
+.self
+{
+    width: 25vw;
+}
+pre
+{
+    font-family: 'Tangerine', serif;
+    margin-top: 0%;
+}
+.contact
+{
+
+font-weight: bolder;
+max-width:50vw ;
+color: whitesmoke;
+font-size: 2vw;
+}
+pre
+{
+    /* font-weight: bolder; */
+}
+.info
+{ 
+    display: flex;
+   justify-content: center;
+  align-items:center;
+  /* padding-left: 25vw; */
+  clear: both;
+}
+.person
+{
+   position: relative;
+    color:#461919;
+    background-color:#957a62;
+ }
+.own
+{
+    color:crimson ;
+}
+.self
+{
+}
+li
+{
+    list-style: none;
+}
+.content{
+   
+    padding-top: 20vh;
+    background-color:white;
+    color: green;
+}
+.nams
+{
+    color: crimson;
+}
+.last
+{
+text-align: center;
+background-color: black;
+color:white;
+}
+.plu
+{
+    height: 309px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
